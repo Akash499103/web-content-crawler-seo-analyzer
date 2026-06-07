@@ -1,5 +1,5 @@
 # Web Content Crawler & SEO Analyzer
-A Python-based web crawler that extracts and analyzes website metadata 
+A Python based web crawler that extracts and analyzes website metadata 
 for SEO evaluation using BFS traversal, Regex, and BeautifulSoup.
 
 ## Tech Stack
